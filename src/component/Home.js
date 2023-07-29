@@ -15,6 +15,7 @@ function Home() {
     <About></About>
     <Staff></Staff>
     <ContactUs></ContactUs>
+    <Footer></Footer>
     </div>
     
     
